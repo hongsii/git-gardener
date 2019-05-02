@@ -3,4 +3,4 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
-rootProject.name = 'git-gardener'
+rootProject.name = "git-gardener"
